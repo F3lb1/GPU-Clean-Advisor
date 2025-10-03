@@ -1,17 +1,10 @@
-Russian language
-
-Данный код поможет вам созать телеграмм бота который будет определять нужно ли чистить вашу видеокарту или нет.
-
-Загрузите 3 данных файла и вставте их в пргоект.
-
+Russian language  
+Данный код поможет вам созать телеграмм бота который будет определять нужно ли чистить вашу видеокарту или нет.  
+Загрузите 3 данных файла и вставте их в пргоект.  
 Обязательно вставте ваш Token из Bot Father.
-
 Для проверки бота отправте ему фото.
-
 English language
-
 This code will help you create a Telegram bot that determines whether your video card needs cleaning or not.
-
 Upload the 3 data files and insert them into the project.
 Be sure to insert your Token from Bot Father.
 To test the bot, send it a photo.
